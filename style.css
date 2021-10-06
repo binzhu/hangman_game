@@ -1,0 +1,20 @@
+#game {
+    border: solid;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #game button{
+    width: 30%;
+  }
+  #letterbox{
+    display: flex;
+    height: 30px;
+    margin: 3px;
+    border: solid;
+    border-color: blue;
+    min-width: 50px;
+  }
+  
